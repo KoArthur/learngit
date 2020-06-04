@@ -3,3 +3,4 @@ Git is free software.
 third aaaa1
 *****
 new line
+ok
